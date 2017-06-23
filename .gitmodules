@@ -2,3 +2,5 @@
 	url = https://github.com/shizzz477/msf.git
 [submodule "cortanascriptcollection/cortana-scripts"]
 	url = https://github.com/shizzz477/msf.git
+[submodule "metasploit-modules"]
+	url = https://github.com/shizzz477/msf.git
